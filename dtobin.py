@@ -1,11 +1,4 @@
 
-"""
-Decimal to Binary Converter
-
-Author: Azlaan Jawed
-Username: Codercat
-Date: 04/12/2024
-"""
 # Decimal work
 decimal_request = input("Decimal to Binary: ") 
 decimal_request = int(decimal_request) 
